@@ -7,7 +7,7 @@ readme.md:
 	touch README.md
 	echo "## GuessingGame" > README.md
 	echo "## Project:" >> README.md
-	echo "# Guess The Number of Files" >> README.md
+	echo "Guess The Number of Files" >> README.md
 	echo "## Date of exec:" >> README.md
 	date  >> README.md  
 	echo "## Number of lines in guessinggame.sh:" >> README.md
